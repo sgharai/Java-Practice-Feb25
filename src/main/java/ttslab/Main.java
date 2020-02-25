@@ -40,6 +40,15 @@ public class Main {
         System.out.println(sentence.startsWith("The"));
         //false
 
+        String intTemplate = "This is an integer: %d \n";
+        System.out.printf(intTemplate, 22);
+
+        Integer meaningOfLife = 42;
+        Integer luckyNumber = Integer.parseInt("88");
+        System.out.println(meaningOfLife + luckyNumber);
+
+
+
 
     }
 }
