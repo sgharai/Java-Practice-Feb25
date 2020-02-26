@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bfd936c5-3850-486d-808b-20c32fcdb503" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/ttslab/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/ttslab/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ttslab/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ttslab/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -34,7 +27,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YIxNa6Ea1S1H1N50cftcClTsiv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -43,17 +38,33 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Main (1)">
+  <component name="RunManager" selected="Application.Main (2)">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ttslab.Main" />
       <module name="Java_Practice_Feb_25.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="ttslab.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfacepractice.Main" />
+      <module name="Java_Practice_Feb_25.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfacepractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -76,6 +87,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
         <item itemvalue="Application.Main" />
       </list>
@@ -99,46 +111,50 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="722" y="91" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1582644085667" />
-    <state x="906" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582644153688">
+    <state x="906" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582729977716">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="906" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1582644153688" />
-    <state x="958" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1582647210998">
+    <state x="906" y="235" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.864@0.0.1536.864" timestamp="1582729977716" />
+    <state x="958" y="116" key="#com.intellij.ide.util.MemberChooser" timestamp="1582732046992">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="958" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1582647210998" />
-    <state width="723" height="221" key="GridCell.Tab.0.bottom" timestamp="1582648937627">
+    <state x="958" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1582732046992" />
+    <state width="723" height="221" key="GridCell.Tab.0.bottom" timestamp="1582732160207">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="723" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582648937627" />
-    <state width="723" height="221" key="GridCell.Tab.0.center" timestamp="1582648937627">
+    <state width="723" height="221" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582732160207" />
+    <state width="723" height="221" key="GridCell.Tab.0.center" timestamp="1582732160207">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="723" height="221" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582648937627" />
-    <state width="723" height="221" key="GridCell.Tab.0.left" timestamp="1582648937627">
+    <state width="723" height="221" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582732160207" />
+    <state width="723" height="221" key="GridCell.Tab.0.left" timestamp="1582732160207">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="723" height="221" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582648937627" />
-    <state width="723" height="221" key="GridCell.Tab.0.right" timestamp="1582648937627">
+    <state width="723" height="221" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582732160207" />
+    <state width="723" height="221" key="GridCell.Tab.0.right" timestamp="1582732160207">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="723" height="221" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582648937627" />
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1582646117237">
+    <state width="723" height="221" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582732160207" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1582655443627">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582646117237" />
-    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1582646117236">
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582655443627" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1582655443627">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1582646117236" />
-    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1582646117236">
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1582655443627" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1582655443627">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1582646117236" />
-    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1582646117237">
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1582655443627" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1582655443627">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1582646117237" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1582655443627" />
+    <state x="805" y="75" width="914" height="714" key="SettingsEditor" timestamp="1582730195022">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="805" y="75" width="914" height="714" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1582730195022" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
