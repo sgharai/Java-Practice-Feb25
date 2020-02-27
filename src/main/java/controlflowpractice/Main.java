@@ -1,5 +1,7 @@
 package controlflowpractice;
 
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) {
         boolean isTrue = true;
@@ -13,6 +15,8 @@ public class Main {
         for(int integer : ints){
             System.out.println(integer + 2);
         }
+
+        Arrays.stream(ints).map(item -> item + 10).forEach(System.out::println);
 
         int lattes = 0;
         do {
@@ -34,6 +38,9 @@ public class Main {
             default:
                 System.out.println("I need a hero");
                 break;
+
+
+
 
 
 
