@@ -8,8 +8,11 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +28,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -44,20 +48,30 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spring/Java Control Flow Lab - Sofia Gharaibeh/build.gradle" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
-  <component name="RunManager" selected="Application.Lesson">
-    <configuration name="Lesson" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdapractice.Lesson" />
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="testingpractice" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DataStructures">
+    <configuration name="DataStructures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="datastructurespractice.DataStructures" />
       <module name="Java_Practice_Feb_25.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambdapractice.*" />
+          <option name="PATTERN" value="datastructurespractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -65,65 +79,93 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfacepractice.Main" />
-      <module name="Java_Practice_Feb_25.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interfacepractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="AddTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;testingpractice.MainTest$AddTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controlflowpractice.Main" />
-      <module name="Java_Practice_Feb_25.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="controlflowpractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="MainTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;testingpractice.MainTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HR.Main" />
-      <module name="Java_Practice_Feb_25.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HR.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="MainTest.divide" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;testingpractice.MainTest.divide&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HR.Solution" />
-      <module name="Java_Practice_Feb_25.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="HR.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="MainTest.testMultiply" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;testingpractice.MainTest.testMultiply&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lesson" />
-        <item itemvalue="Application.Main (4)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Main (3)" />
-        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.DataStructures" />
+        <item itemvalue="Gradle.MainTest" />
+        <item itemvalue="Gradle.AddTest" />
+        <item itemvalue="Gradle.MainTest.testMultiply" />
+        <item itemvalue="Gradle.MainTest.divide" />
       </list>
     </recent_temporary>
   </component>
@@ -141,10 +183,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="722" y="91" key="#Project_Structure" timestamp="1582644085667">
+    <state x="722" y="91" key="#Project_Structure" timestamp="1582925756183">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="722" y="91" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1582644085667" />
+    <state x="722" y="91" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1582925756183" />
     <state x="906" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582729977716">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -153,22 +195,30 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="958" y="116" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1582732046992" />
-    <state width="723" height="190" key="GridCell.Tab.0.bottom" timestamp="1582902318585">
+    <state x="883" y="211" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1582925880406">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="723" height="190" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1582902318585" />
-    <state width="723" height="190" key="GridCell.Tab.0.center" timestamp="1582902318585">
+    <state x="883" y="211" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1582925880406" />
+    <state x="933" y="190" key="FileChooserDialogImpl" timestamp="1583002724106">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="723" height="190" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1582902318585" />
-    <state width="723" height="190" key="GridCell.Tab.0.left" timestamp="1582902318585">
+    <state x="933" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1583002724106" />
+    <state width="723" height="190" key="GridCell.Tab.0.bottom" timestamp="1583163380487">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="723" height="190" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1582902318585" />
-    <state width="723" height="190" key="GridCell.Tab.0.right" timestamp="1582902318585">
+    <state width="723" height="190" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583163380487" />
+    <state width="723" height="190" key="GridCell.Tab.0.center" timestamp="1583163380487">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="723" height="190" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1582902318585" />
+    <state width="723" height="190" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1583163380487" />
+    <state width="723" height="190" key="GridCell.Tab.0.left" timestamp="1583163380487">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="723" height="190" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1583163380487" />
+    <state width="723" height="190" key="GridCell.Tab.0.right" timestamp="1583163380487">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="723" height="190" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1583163380487" />
     <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1582655443627">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -189,6 +239,18 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="805" y="75" width="914" height="714" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1582730195022" />
+    <state x="924" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582925887843">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="924" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.0.1536.864@0.0.1536.864" timestamp="1582925887843" />
+    <state x="418" y="44" key="new project wizard" timestamp="1582904300357">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="418" y="44" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1582904300357" />
+    <state x="814" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1582926761533">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="814" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1582926761533" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
