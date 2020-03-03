@@ -6,13 +6,32 @@
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/jarAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/HR/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/datastructurespractice/DataStructures.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/datastructurespractice/DataStructures.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/testingpractice/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/testingpractice/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/testingpractice/MainTest$AddTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/testingpractice/MainTest$AddTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/testingpractice/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/testingpractice/MainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/testingpractice.MainTest$AddTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/testingpractice.MainTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/testingpractice.MainTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/testingpractice.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/testingpractice.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-testingpractice.MainTest$AddTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-testingpractice.MainTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-testingpractice.MainTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HR/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructurespractice/DataStructures.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructurespractice/DataStructures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testingpractice/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testingpractice/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testingpractice/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testingpractice/MainTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +42,16 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -50,11 +79,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Spring/Java Control Flow Lab - Sofia Gharaibeh/build.gradle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.gradle" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="show.unlinked.gradle.project.popup" value="true" />
   </component>
   <component name="RecentsManager">
@@ -65,39 +94,19 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.DataStructures">
-    <configuration name="DataStructures" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="datastructurespractice.DataStructures" />
+  <component name="RunManager" selected="Gradle.MainTest.testException">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="stackpractice.Main" />
       <module name="Java_Practice_Feb_25.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="datastructurespractice.*" />
+          <option name="PATTERN" value="stackpractice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
-    </configuration>
-    <configuration name="AddTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;testingpractice.MainTest$AddTest&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
     </configuration>
     <configuration name="MainTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -119,12 +128,12 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="MainTest.divide" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MainTest.testAdd" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;testingpractice.MainTest.divide&quot;" />
+        <option name="scriptParameters" value="--tests &quot;testingpractice.MainTest.testAdd&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -139,12 +148,32 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="MainTest.testMultiply" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="MainTest.testException" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;testingpractice.MainTest.testMultiply&quot;" />
+        <option name="scriptParameters" value="--tests &quot;testingpractice.MainTest.testException&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="MainTest.testName" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;testingpractice.MainTest.testName&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -161,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DataStructures" />
+        <item itemvalue="Gradle.MainTest.testException" />
+        <item itemvalue="Gradle.MainTest.testName" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Gradle.MainTest" />
-        <item itemvalue="Gradle.AddTest" />
-        <item itemvalue="Gradle.MainTest.testMultiply" />
-        <item itemvalue="Gradle.MainTest.divide" />
+        <item itemvalue="Gradle.MainTest.testAdd" />
       </list>
     </recent_temporary>
   </component>
@@ -183,10 +212,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="722" y="91" key="#Project_Structure" timestamp="1582925756183">
+    <state x="722" y="91" key="#Project_Structure" timestamp="1583183511361">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="722" y="91" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1582925756183" />
+    <state x="722" y="91" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1583183511361" />
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583252187404">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="223" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1583252187404" />
     <state x="906" y="235" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582729977716">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -199,26 +232,26 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="883" y="211" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1536.864@0.0.1536.864" timestamp="1582925880406" />
-    <state x="933" y="190" key="FileChooserDialogImpl" timestamp="1583002724106">
+    <state x="933" y="190" key="FileChooserDialogImpl" timestamp="1583177799433">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="933" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1583002724106" />
-    <state width="723" height="190" key="GridCell.Tab.0.bottom" timestamp="1583163380487">
+    <state x="933" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1583177799433" />
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom" timestamp="1583254770545">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="723" height="190" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583163380487" />
-    <state width="723" height="190" key="GridCell.Tab.0.center" timestamp="1583163380487">
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1583254770545" />
+    <state width="1493" height="190" key="GridCell.Tab.0.center" timestamp="1583254770545">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="723" height="190" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1583163380487" />
-    <state width="723" height="190" key="GridCell.Tab.0.left" timestamp="1583163380487">
+    <state width="1493" height="190" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1583254770545" />
+    <state width="1493" height="190" key="GridCell.Tab.0.left" timestamp="1583254770545">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="723" height="190" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1583163380487" />
-    <state width="723" height="190" key="GridCell.Tab.0.right" timestamp="1583163380487">
+    <state width="1493" height="190" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1583254770545" />
+    <state width="1493" height="190" key="GridCell.Tab.0.right" timestamp="1583254770545">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="723" height="190" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1583163380487" />
+    <state width="1493" height="190" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1583254770545" />
     <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1582655443627">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -235,10 +268,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1582655443627" />
-    <state x="805" y="75" width="914" height="714" key="SettingsEditor" timestamp="1582730195022">
+    <state x="622" y="75" width="914" height="714" key="SettingsEditor" timestamp="1583251508478">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="805" y="75" width="914" height="714" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1582730195022" />
+    <state x="622" y="75" width="914" height="714" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1583251508478" />
     <state x="924" y="154" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1582925887843">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -265,11 +298,16 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/HR/Main.java</url>
-          <line>7</line>
-          <properties class="HR.Main" method="main">
+          <line>60</line>
+          <properties class="HR.Main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/testingpractice/MainTest.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

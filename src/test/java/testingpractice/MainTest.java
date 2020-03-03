@@ -31,6 +31,7 @@ class MainTest {
         assertThrows(ArithmeticException.class, () -> main.divide(1, 0), "Divide by zero should throw exception");
     }
 
+
     @Test
     @DisplayName("Multiply Method")
     void testMultiply(){
@@ -58,6 +59,17 @@ class MainTest {
 
     }
 
+    @Test
+    void testName(){
+        assertEquals("Sofia Gharaibeh", main.name("Sofia", "Gharaibeh"));
+    }
+
+    @Test
+    void testException() {
+        assertThrows(Exception.class, main::throwsException);
+    }
+
 
 
 }
+

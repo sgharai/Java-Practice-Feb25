@@ -32,6 +32,8 @@ public class DataStructures {
         grades.put("Numan", "C");
         grades.put("Maui", "A");
 
+        System.out.println(grades);
+
         LinkedList<Integer> ints = new LinkedList<>(
                 Arrays.asList(1, 2, 4, 4, 5)
         );
